@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lahiru Sandaruwan</h1>
 <h3 align="center">A passionate DevOps Engineer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/v2/resize:fit:720/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nooblk-98&label=Profile%20views&color=0e75b6&style=flat" alt="nooblk-98" /> </p>
 
