@@ -28,6 +28,14 @@
 
 ---
 
+### Status
+
+![Collaboration](https://img.shields.io/badge/Collaboration-Open-brightgreen)
+![Location](https://img.shields.io/badge/Location-Sri%20Lanka-orange?logo=google-maps&logoColor=white)
+![Timezone](https://img.shields.io/badge/Timezone-UTC%2B05:30-0A66C2)
+
+---
+
 ### Toolbox
 
 | Category | Tools |
@@ -51,20 +59,12 @@
 
 ---
 
-### Pinned Repositories
+### Highlights
 
-<em>Replace REPO1–REPO6 with your repository names.</em>
-
-<p align="center">
-  <a href="https://github.com/nooblk-98/REPO1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO1&theme=tokyonight" /></a>
-  <a href="https://github.com/nooblk-98/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO2&theme=tokyonight" /></a>
-  <a href="https://github.com/nooblk-98/REPO3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO3&theme=tokyonight" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/nooblk-98/REPO4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO4&theme=tokyonight" /></a>
-  <a href="https://github.com/nooblk-98/REPO5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO5&theme=tokyonight" /></a>
-  <a href="https://github.com/nooblk-98/REPO6"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO6&theme=tokyonight" /></a>
-</p>
+- End-to-end CI/CD: trunk-based development, semantic release, and automated deployments.
+- IaC-first mindset: modular Terraform, environment parity, policy-as-code.
+- Kubernetes friendly: Helm/Kustomize, GitOps workflows, secure supply chain.
+- Observability focused: actionable metrics, logs, and tracing.
 
 ---
 
