@@ -30,45 +30,15 @@
 
 ### Toolbox
 
-Cloud:
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
-
-Containers & Orchestration:
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-IaC & Configuration:
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-
-CI/CD:
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-
-Runtime & Web:
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-Scripting:
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-Data & Monitoring:
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+| Category | Tools |
+|---|---|
+| Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) |
+| Containers | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+| IaC & Config | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) |
+| CI/CD | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) |
+| Runtime & OS | ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+| Scripting | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| Data & Monitoring | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
 
 ---
 
@@ -78,6 +48,23 @@ Data & Monitoring:
 - Kubernetes platform operations and GitOps workflows.
 - Infrastructure as Code at scale (modular Terraform).
 - Observability: actionable metrics, logs, and traces.
+
+---
+
+### Pinned Repositories
+
+<em>Replace REPO1–REPO6 with your repository names.</em>
+
+<p align="center">
+  <a href="https://github.com/nooblk-98/REPO1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO1&theme=tokyonight" /></a>
+  <a href="https://github.com/nooblk-98/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO2&theme=tokyonight" /></a>
+  <a href="https://github.com/nooblk-98/REPO3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO3&theme=tokyonight" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/nooblk-98/REPO4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO4&theme=tokyonight" /></a>
+  <a href="https://github.com/nooblk-98/REPO5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO5&theme=tokyonight" /></a>
+  <a href="https://github.com/nooblk-98/REPO6"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nooblk-98&repo=REPO6&theme=tokyonight" /></a>
+</p>
 
 ---
 
@@ -114,4 +101,3 @@ Data & Monitoring:
 > "Automation is good, so long as you know exactly where to put the switch."
 >
 > — *Lahiru S.*
-
