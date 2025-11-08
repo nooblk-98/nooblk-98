@@ -68,6 +68,30 @@
 
 ---
 
+## 🐳 | Projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📁 Name</b></td>
+      <td><b>✍️ Description</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🚢 Pulls</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>❌ Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nooblk-98/wordpress-docker"><b>wordpress-docker</b></a></td>
+      <td>The Free Software For Mikrotik Management with Telegram bot.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nooblk-98/wordpress-docker?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Pulls" src="https://img.shields.io/docker/pulls/nooblk-98/wordpress-docker?style=flat-square&label=Pulls&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/wordpress-docker?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/wordpress-docker?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ### GitHub Stats
 
 <p align="center">
