@@ -93,7 +93,7 @@
       <td><a href="https://github.com/nooblk-98/php-docker-nginx"><b>php-docker-nginx</b></a></td>
       <td>Production-ready PHP-FPM + Nginx Docker containers for modern web applications</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nooblk-98/php-docker-nginx?style=flat-square&label=Stars&labelColor=343b41"/></td>
-      <td><img alt="Pulls" src="https://img.shields.io/badge/dynamic/json?url=https://ghcr.io/v2/nooblk-98/php-docker-nginx/tags/list&query=$.tags.length&style=flat-square&label=Pulls&labelColor=343b41"/></td>
+      <td><img alt="Pulls" src="https://img.shields.io/docker/pulls/nooblk98/php-docker-nginx?style=flat-square&label=Pulls&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/php-docker-nginx?style=flat-square&label=Forks&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/php-docker-nginx?style=flat-square&label=Issues&labelColor=343b41"/></td>
     </tr>
