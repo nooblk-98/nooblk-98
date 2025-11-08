@@ -83,7 +83,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/nooblk-98/wordpress-docker"><b>wordpress-docker</b></a></td>
-      <td>The Free Software For Mikrotik Management with Telegram bot.</td>
+      <td>Docker-based WordPress deployment with automated setup and configuration.</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nooblk-98/wordpress-docker?style=flat-square&label=Stars&labelColor=343b41"/></td>
       <td><img alt="Pulls" src="https://img.shields.io/docker/pulls/nooblk-98/wordpress-docker?style=flat-square&label=Pulls&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/wordpress-docker?style=flat-square&label=Forks&labelColor=343b41"/></td>
