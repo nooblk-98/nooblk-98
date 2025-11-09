@@ -100,6 +100,30 @@
   </tbody>
 </table>
 
+## 📦 | Other Projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📁 Name</b></td>
+      <td><b>✍️ Description</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>⬇️ Downloads</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>❌ Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nooblk-98/noobwrt-arcadyan-aw1k"><b>noobwrt-arcadyan-aw1k</b></a></td>
+      <td>A custom firmware built specifically for the Arcadyan AW1000 Telstra 5G Home Modem.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nooblk-98/noobwrt-arcadyan-aw1k?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/nooblk-98/noobwrt-arcadyan-aw1k/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/noobwrt-arcadyan-aw1k?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/noobwrt-arcadyan-aw1k?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ### GitHub Stats
 
 <p align="center">
