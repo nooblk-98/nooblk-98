@@ -59,15 +59,6 @@
 
 ---
 
-### Highlights
-
-- End-to-end CI/CD: trunk-based development, semantic release, and automated deployments.
-- IaC-first mindset: modular Terraform, environment parity, policy-as-code.
-- Kubernetes friendly: Helm/Kustomize, GitOps workflows, secure supply chain.
-- Observability focused: actionable metrics, logs, and tracing.
-
----
-
 ## 🐳 | Projects
 <table>
   <thead align="center">
