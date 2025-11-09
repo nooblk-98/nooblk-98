@@ -121,7 +121,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/wordpress-sitemap-update-plugin?style=flat-square&label=Issues&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nooblk-98/linux-toolbox"><b>wordpress-sitemap-update-plugin</b></a></td>
+      <td><a href="https://github.com/nooblk-98/linux-toolbox"><b>linux-toolbox</b></a></td>
       <td>A Comprehensive Collection of Linux Server Management Scripts.</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nooblk-98/linux-toolbox?style=flat-square&label=Stars&labelColor=343b41"/></td>
       <td><img alt="Downloads" src="https://img.shields.io/github/downloads/nooblk-98/linux-toolbox/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
