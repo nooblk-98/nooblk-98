@@ -104,45 +104,6 @@ collaboration: Open to opportunities ✅
 
 ---
 
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 CI/CD Excellence
-- Production-grade pipelines
-- Secure supply chains
-- Automated deployments
-- Quality gates & testing
-
-### ⎈ Kubernetes Operations
-- Platform engineering
-- GitOps workflows
-- Service mesh integration
-- Auto-scaling strategies
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Infrastructure as Code
-- Modular Terraform designs
-- Multi-cloud provisioning
-- Configuration management
-- State management best practices
-
-### 📈 Observability & Monitoring
-- Metrics, logs, and traces
-- Distributed tracing
-- Performance optimization
-- Proactive alerting
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🐳 Docker & Container Solutions
