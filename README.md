@@ -106,28 +106,40 @@ collaboration: Open to opportunities ✅
 
 ## 🎯 Current Focus
 
-```mermaid
-mindmap
-  root((DevOps))
-    CI/CD
-      Secure Supply Chains
-      Production Pipelines
-    Kubernetes
-      Platform Operations
-      GitOps Workflows
-    IaC
-      Modular Terraform
-      Scalable Architecture
-    Observability
-      Metrics & Logs
-      Distributed Tracing
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-✨ **Key Areas:**
-- 🔐 Production-grade CI/CD with secure supply chains
-- ⎈ Kubernetes platform operations and GitOps workflows
-- 📦 Infrastructure as Code at scale (modular Terraform)
-- 📈 Observability: actionable metrics, logs, and traces
+### 🔐 CI/CD Excellence
+- Production-grade pipelines
+- Secure supply chains
+- Automated deployments
+- Quality gates & testing
+
+### ⎈ Kubernetes Operations
+- Platform engineering
+- GitOps workflows
+- Service mesh integration
+- Auto-scaling strategies
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Infrastructure as Code
+- Modular Terraform designs
+- Multi-cloud provisioning
+- Configuration management
+- State management best practices
+
+### 📈 Observability & Monitoring
+- Metrics, logs, and traces
+- Distributed tracing
+- Performance optimization
+- Proactive alerting
+
+</td>
+</tr>
+</table>
 
 ---
 
