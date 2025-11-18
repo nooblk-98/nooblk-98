@@ -79,6 +79,7 @@
       <td><img alt="Pulls" src="https://img.shields.io/docker/pulls/lahiru98s/wordpress-docker?style=flat-square&label=Pulls&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/wordpress-docker?style=flat-square&label=Forks&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/wordpress-docker?style=flat-square&label=Issues&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/telegram-spam-guard?style=flat-square&label=Issues&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/nooblk-98/php-docker-nginx"><b>php-docker-nginx</b></a></td>
@@ -87,6 +88,7 @@
       <td><img alt="Pulls" src="https://img.shields.io/docker/pulls/lahiru98s/php-docker-nginx?style=flat-square&label=Pulls&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/php-docker-nginx?style=flat-square&label=Forks&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/php-docker-nginx?style=flat-square&label=Issues&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/telegram-spam-guard?style=flat-square&label=Issues&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
