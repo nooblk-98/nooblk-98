@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/🌐_Website-itsnooblk.com-4285F4?style=for-the-badge)](https://www.itsnooblk.com)
 [![Email](https://img.shields.io/badge/📧_Email-liyanagelsofficial@gmail.com-EA4335?style=for-the-badge)](mailto:liyanagelsofficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lahiru-liyanage-22b094247)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://fb.com/lahirubrown)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nooblk-98&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/nooblk-98?logo=github&style=for-the-badge&label=Followers)
