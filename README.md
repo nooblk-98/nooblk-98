@@ -79,6 +79,13 @@
       <td><img alt="Pulls" src="https://img.shields.io/docker/pulls/lahiru98s/wordpress-docker?style=flat-square&label=Pulls&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/wordpress-docker?style=flat-square&label=Forks&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/wordpress-docker?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nooblk-98/telegram-spam-guard"><b>telegram-spam-guard</b></a></td>
+      <td>A powerful Telegram spam remover tool built using Telethon/Pyrogram..</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nooblk-98/telegram-spam-guard?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Pulls" src="https://img.shields.io/docker/pulls/lahiru98s/telegram-spam-guard?style=flat-square&label=Pulls&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/telegram-spam-guard?style=flat-square&label=Forks&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/telegram-spam-guard?style=flat-square&label=Issues&labelColor=343b41"/></td>
     </tr>
     <tr>
@@ -88,7 +95,6 @@
       <td><img alt="Pulls" src="https://img.shields.io/docker/pulls/lahiru98s/php-docker-nginx?style=flat-square&label=Pulls&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nooblk-98/php-docker-nginx?style=flat-square&label=Forks&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/php-docker-nginx?style=flat-square&label=Issues&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nooblk-98/telegram-spam-guard?style=flat-square&label=Issues&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
