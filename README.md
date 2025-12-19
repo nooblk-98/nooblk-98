@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Lahiru%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Lahiru%20&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### 🚀 DevOps Engineer • ☁️ Cloud Architect • 🤖 Automation Specialist
+### DevOps Engineer • Cloud Architect • Automation Specialist
 
 <p>
   <em>Transforming infrastructure into code, one pipeline at a time</em> 🔧
