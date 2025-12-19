@@ -263,23 +263,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 DevOps Philosophy
-
-> *"The best way to predict the future is to automate it."*  
-> **— Lahiru Sandaruwan**
-
-<br>
-
-### 📅 Fun Facts
-🕐 **Timezone:** UTC+05:30 | 🌏 **Location:** Sri Lanka  
-☕ **Powered by:** Coffee & Code | 🎯 **Mission:** Simplifying cloud complexity
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful&fontSize=14&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 <sub>💡 **Pro tip:** Check out my pinned repositories below for some cool DevOps projects!</sub>
