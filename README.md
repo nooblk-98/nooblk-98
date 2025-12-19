@@ -255,13 +255,14 @@
 </tr>
 </table>
 
+</div>
+
 ### 🌟 Open for Opportunities
 - 💼 **Consulting** - Cloud infrastructure & DevOps strategy
 - 🤝 **Collaboration** - Open source projects & technical content
 - 📢 **Speaking** - Tech talks & workshops on DevOps practices
 - 🎓 **Mentoring** - Helping others learn DevOps & cloud technologies
 
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful&fontSize=14&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
