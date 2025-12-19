@@ -220,18 +220,6 @@
 
 </div>
 
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=nooblk-98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nooblk-98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate
