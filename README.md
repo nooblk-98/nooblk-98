@@ -107,6 +107,7 @@
 
 </div>
 
+---
 
 ## 📊 GitHub Statistics
 
