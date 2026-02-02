@@ -62,14 +62,6 @@
 </tr>
 </table>
 
-### 🔥 Currently Working On
-- 🚀 Implementing **Kubernetes operators** for automated application management
-- 📊 Building comprehensive **observability stacks** with Prometheus & Grafana
-- 🔐 Strengthening **DevSecOps pipelines** with automated security scanning
-- 📝 Sharing knowledge through technical blogs and documentation
-
-💬 **Ask me about:** `Cloud Architecture` • `Kubernetes` • `Terraform` • `CI/CD` • `Docker` • `Linux Administration` • `GitOps`
-
 📫 **Best way to reach me:** [liyanagelsofficial@gmail.com](mailto:liyanagelsofficial@gmail.com) | [LinkedIn](https://linkedin.com/in/lahiru-liyanage-22b094247)
 
 ---
