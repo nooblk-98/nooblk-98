@@ -107,31 +107,6 @@
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Notable Projects
-- **Cloud Infrastructure Automation** - Multi-cloud deployment pipelines
-- **Kubernetes Cluster Management** - Production-grade K8s setup with GitOps
-- **CI/CD Pipeline Optimization** - Reduced deployment time by 70%
-- **Monitoring Dashboard Solutions** - Custom Grafana dashboards for observability
-
-</td>
-<td width="50%">
-
-### 📦 Featured Repositories
-_Auto-updated daily with latest public projects_
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Statistics
 
