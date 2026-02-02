@@ -109,7 +109,7 @@
 
 ---
 
-## 🏆 Featured Projects & Achievements
+## 🏆 Featured Projects
 
 <table>
 <tr>
@@ -124,11 +124,8 @@
 </td>
 <td width="50%">
 
-### 📈 Key Achievements
-- ✅ Managed **10+ production environments** across multiple clouds
-- ✅ Automated **100+ deployment workflows** saving 200+ hours/month
-- ✅ Reduced infrastructure costs by **40%** through optimization
-- ✅ Implemented zero-downtime deployments for critical services
+### 📦 Featured Repositories
+_Auto-updated daily with latest public projects_
 
 </td>
 </tr>
