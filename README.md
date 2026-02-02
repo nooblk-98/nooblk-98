@@ -27,24 +27,28 @@
 
 ## About Me
 
+```yaml
 👤 Profile:
   name: "Lahiru Sandaruwan"
   role: "DevOps Engineer"
   location: "Sri Lanka 🇱🇰"
   timezone: "UTC+05:30"
   languages: ["English", "Sinhala"]
-  
+```
+```yaml
 💼 Current_Focus:
   - "Building scalable cloud infrastructure"
   - "Implementing GitOps practices"
   - "Enhancing CI/CD automation"
   - "Open to collaboration & opportunities ✅"
-  
+```
+```yaml
 🎯 Expertise:
   - "Platform Engineering & SRE"
   - "Cloud Native Architecture"
   - "Infrastructure as Code"
   - "Kubernetes & Container Orchestration"
+```
 
 ### 💡 What I Do
 
