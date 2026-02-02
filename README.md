@@ -25,9 +25,8 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```yaml
 👤 Profile:
   name: "Lahiru Sandaruwan"
   role: "DevOps Engineer"
@@ -46,7 +45,6 @@
   - "Cloud Native Architecture"
   - "Infrastructure as Code"
   - "Kubernetes & Container Orchestration"
-```
 
 ### 💡 What I Do
 
