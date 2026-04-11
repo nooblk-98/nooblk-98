@@ -135,7 +135,7 @@ focus:
 
 <img src="https://streak-stats.demolab.com?user=nooblk-98&theme=tokyonight&hide_border=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooblk-98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nooblk-98&theme=tokyonight" height="165"/>
 
 </div>
 
