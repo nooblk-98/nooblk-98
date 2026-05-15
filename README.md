@@ -72,7 +72,7 @@ focus:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean,docker,kubernetes,helm,argo,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,elasticsearch,datadog,linux,ubuntu,nginx,mysql,postgresql,mongodb,redis,bash,python,go,yaml,vault)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean,docker,kubernetes,helm,argo,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,elasticsearch,datadog,linux,ubuntu,nginx,mysql,postgresql,mongodb,redis,bash,python,go,yaml,vault,git,github,debian,cloudflare,kafka,rabbitmq,sentry&perline=18)](https://skillicons.dev)
 
 </div>
 
