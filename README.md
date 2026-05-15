@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/github/stars/nooblk-98?affiliations=OWNER&style=flat-square&label=Stars&color=yellow" alt="Stars"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%26+Cloud+Architect;CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+Ansible;Automating+infrastructure%2C+one+pipeline+at+a+time;Open+source+contributor+%26+tech+enthusiast;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%7C+UTC%2B05%3A30)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -129,13 +131,41 @@ focus:
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nooblk-98&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nooblk-98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nooblk-98&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooblk-98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=nooblk-98&theme=tokyonight&hide_border=true" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nooblk-98&theme=tokyonight" height="170"/>
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nooblk-98&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&area=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=nooblk-98&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/nooblk-98/nooblk-98/output/github-snake-dark.svg)
 
 </div>
 
