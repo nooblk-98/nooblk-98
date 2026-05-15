@@ -72,37 +72,7 @@ focus:
 
 <div align="center">
 
-**☁️ Cloud & Platforms**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean&perline=10)](https://skillicons.dev)
-
-**🐳 Containers & Orchestration**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,helm,argo&perline=10)](https://skillicons.dev)
-
-**⚙️ IaC & Automation**
-
-[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,githubactions,gitlab,jenkins&perline=10)](https://skillicons.dev)
-
-**📊 Observability**
-
-[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,datadog&perline=10)](https://skillicons.dev)
-
-**🐧 OS & Web Servers**
-
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,nginx&perline=10)](https://skillicons.dev)
-
-**🗄️ Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&perline=10)](https://skillicons.dev)
-
-**📝 Languages & Scripting**
-
-[![My Skills](https://skillicons.dev/icons?i=bash,python,go,yaml&perline=10)](https://skillicons.dev)
-
-**🔒 Security**
-
-[![My Skills](https://skillicons.dev/icons?i=vault&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean,docker,kubernetes,helm,argo,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,elasticsearch,datadog,linux,ubuntu,nginx,mysql,postgresql,mongodb,redis,bash,python,go,yaml,vault)](https://skillicons.dev)
 
 </div>
 
