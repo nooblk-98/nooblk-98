@@ -118,7 +118,7 @@ focus:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nooblk-98&theme=tokyonight" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nooblk-98&theme=tokyonight&utcOffset=5.5" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nooblk-98&theme=tokyonight" height="170"/>
 
 </div>
 
