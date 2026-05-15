@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "gh-profile": {
+      "source": "dimitrigilbert/ai-skills",
+      "sourceType": "github",
+      "skillPath": "gh-profile/SKILL.md",
+      "computedHash": "8922a09be5966c0068ab343bd0f5fff0ce295c5a607e593670f2d87989be10eb"
+    }
+  }
+}
