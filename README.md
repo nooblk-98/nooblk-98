@@ -72,60 +72,37 @@ focus:
 
 <div align="center">
 
-**Cloud & Platforms**
+**☁️ Cloud & Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean&perline=10)](https://skillicons.dev)
 
-**Containers & Orchestration**
+**🐳 Containers & Orchestration**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,helm,argo&perline=10)](https://skillicons.dev)
 
-**IaC & Automation**
+**⚙️ IaC & Automation**
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,githubactions,gitlab,jenkins&perline=10)](https://skillicons.dev)
 
-**Observability**
+**📊 Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,datadog&perline=10)](https://skillicons.dev)
 
-**OS & Web Servers**
+**🐧 OS & Web Servers**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,nginx&perline=10)](https://skillicons.dev)
 
-**Databases**
+**🗄️ Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&perline=10)](https://skillicons.dev)
 
-**Languages & Scripting**
+**📝 Languages & Scripting**
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,go,yaml&perline=10)](https://skillicons.dev)
 
-**Security**
+**🔒 Security**
 
-![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vault&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -165,7 +142,7 @@ focus:
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/nooblk-98/nooblk-98/output/github-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/nooblk-98/nooblk-98/main/assets/github-snake-dark.svg)
 
 </div>
 
