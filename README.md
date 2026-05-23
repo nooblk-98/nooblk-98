@@ -9,6 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-itsnooblk.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.itsnooblk.com)
 [![Email](https://img.shields.io/badge/Email-liyanagelsofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liyanagelsofficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lahiru%20Sandaruwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahiru-liyanage-22b094247)
+[![Projects](https://img.shields.io/badge/Projects-View%20All-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://www.itsnooblk.com/#projects)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nooblk-98&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
