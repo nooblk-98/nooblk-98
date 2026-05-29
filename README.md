@@ -43,17 +43,9 @@ focus:
 
 ## What I Do
 
-<div align="center">
+I design and build secure, scalable CI/CD pipelines and architect multi-cloud solutions across AWS, Azure, and GCP. My work spans container orchestration with Docker and Kubernetes, and infrastructure provisioning using Terraform and Ansible — turning complex infrastructure into clean, repeatable code.
 
-| Infrastructure & Deployment | Core Competencies |
-|:---|:---|
-| Secure, scalable CI/CD pipeline design | **Platform Engineering** — developer-friendly internal platforms |
-| Multi-cloud architecture across AWS, Azure & GCP | **GitOps Workflows** — declarative, version-controlled infra |
-| Container orchestration with Docker & Kubernetes | **Observability** — monitoring, alerting & distributed tracing |
-| Infrastructure-as-Code with Terraform & Ansible | **DevSecOps** — security & compliance across the SDLC |
-| | **Cost Optimization** — right-sizing & resource efficiency |
-
-</div>
+Beyond deployment, I focus on platform engineering to create developer-friendly internal platforms, GitOps workflows for declarative version-controlled infrastructure, and end-to-end observability through monitoring, alerting, and distributed tracing. I embed security and compliance throughout the SDLC and continuously optimize cloud costs through right-sizing and resource efficiency.
 
 ---
 
