@@ -105,15 +105,7 @@ focus:
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=nooblk-98&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/nooblk-98/nooblk-98/main/assets/github-snake-dark.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=nooblk-98&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
