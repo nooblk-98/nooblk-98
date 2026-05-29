@@ -43,29 +43,17 @@ focus:
 
 ## What I Do
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-#### Infrastructure & Deployment
-- Design secure, scalable CI/CD pipelines
-- Architect multi-cloud solutions across AWS, Azure, and GCP
-- Deploy and manage containerized workloads with Docker & Kubernetes
-- Automate infrastructure provisioning with Terraform & Ansible
+| 🚀 Infrastructure & Deployment | 🧠 Core Competencies |
+|:---|:---|
+| ⚙️ Secure, scalable CI/CD pipeline design | 🏗️ **Platform Engineering** — developer-friendly internal platforms |
+| ☁️ Multi-cloud architecture across AWS, Azure & GCP | 🔁 **GitOps Workflows** — declarative, version-controlled infra |
+| 🐳 Container orchestration with Docker & Kubernetes | 📊 **Observability** — monitoring, alerting & distributed tracing |
+| 🛠️ Infrastructure-as-Code with Terraform & Ansible | 🔐 **DevSecOps** — security & compliance across the SDLC |
+| | 💰 **Cost Optimization** — right-sizing & resource efficiency |
 
-</td>
-<td width="50%" valign="top">
-
-#### Core Competencies
-- **Platform Engineering** — developer-friendly internal platforms
-- **GitOps Workflows** — declarative, version-controlled infrastructure
-- **Observability** — end-to-end monitoring, alerting, and tracing
-- **Security & Compliance** — DevSecOps practices across the SDLC
-- **Cost Optimization** — right-sizing and resource efficiency at scale
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
