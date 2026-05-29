@@ -45,13 +45,13 @@ focus:
 
 <div align="center">
 
-| 🚀 Infrastructure & Deployment | 🧠 Core Competencies |
+| Infrastructure & Deployment | Core Competencies |
 |:---|:---|
-| ⚙️ Secure, scalable CI/CD pipeline design | 🏗️ **Platform Engineering** — developer-friendly internal platforms |
-| ☁️ Multi-cloud architecture across AWS, Azure & GCP | 🔁 **GitOps Workflows** — declarative, version-controlled infra |
-| 🐳 Container orchestration with Docker & Kubernetes | 📊 **Observability** — monitoring, alerting & distributed tracing |
-| 🛠️ Infrastructure-as-Code with Terraform & Ansible | 🔐 **DevSecOps** — security & compliance across the SDLC |
-| | 💰 **Cost Optimization** — right-sizing & resource efficiency |
+| Secure, scalable CI/CD pipeline design | **Platform Engineering** — developer-friendly internal platforms |
+| Multi-cloud architecture across AWS, Azure & GCP | **GitOps Workflows** — declarative, version-controlled infra |
+| Container orchestration with Docker & Kubernetes | **Observability** — monitoring, alerting & distributed tracing |
+| Infrastructure-as-Code with Terraform & Ansible | **DevSecOps** — security & compliance across the SDLC |
+| | **Cost Optimization** — right-sizing & resource efficiency |
 
 </div>
 
