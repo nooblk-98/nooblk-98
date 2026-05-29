@@ -14,8 +14,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: nooblk-98
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
