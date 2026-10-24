@@ -91,6 +91,18 @@ Beyond deployment, I focus on platform engineering to create developer-friendly 
 
 ---
 
+## 🤝 Contributions Welcome
+
+These OpenWrt projects are open for contributions — bug reports, fixes, translations and new features are all appreciated. Pick an open issue or send a pull request!
+
+| Project | Description | |
+|---|---|---|
+| [**luci-app-netstat**](https://github.com/nooblk-98/luci-app-netstat) | Network traffic statistics and monitoring for LuCI | [![Stars](https://img.shields.io/github/stars/nooblk-98/luci-app-netstat?style=flat-square&color=yellow)](https://github.com/nooblk-98/luci-app-netstat/stargazers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/nooblk-98/luci-app-netstat/pulls) |
+| [**luci-theme-noobwrt**](https://github.com/nooblk-98/luci-theme-noobwrt) | Clean, modern LuCI theme with live wallpapers and custom accents | [![Stars](https://img.shields.io/github/stars/nooblk-98/luci-theme-noobwrt?style=flat-square&color=yellow)](https://github.com/nooblk-98/luci-theme-noobwrt/stargazers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/nooblk-98/luci-theme-noobwrt/pulls) |
+| [**NoobWRT**](https://github.com/nooblk-98/noobwrt-arcadyan-aw1k) | Custom OpenWrt firmware for the Arcadyan AW1000 5G modem | [![Stars](https://img.shields.io/github/stars/nooblk-98/noobwrt-arcadyan-aw1k?style=flat-square&color=yellow)](https://github.com/nooblk-98/noobwrt-arcadyan-aw1k/stargazers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/nooblk-98/noobwrt-arcadyan-aw1k/pulls) |
+
+---
+
 ## Open to
 
 | | |
