@@ -77,7 +77,9 @@ Beyond deployment, I focus on platform engineering to create developer-friendly 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nooblk-98&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&area=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nooblk-98&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://ghchart.rshah.org/70a5fd/nooblk-98" alt="Contribution Graph" width="100%"/>
 
 </div>
 
